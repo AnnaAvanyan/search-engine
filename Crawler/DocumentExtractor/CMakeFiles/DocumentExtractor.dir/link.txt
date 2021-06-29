@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall -g  -shared -Wl,-soname,libDocumentExtractor.so -o libDocumentExtractor.so CMakeFiles/DocumentExtractor.dir/DocumentInfo.cpp.o CMakeFiles/DocumentExtractor.dir/DocumentExtractor.cpp.o 

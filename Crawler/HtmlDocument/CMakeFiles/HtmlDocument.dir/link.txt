@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall -g  -shared -Wl,-soname,libHtmlDocument.so -o libHtmlDocument.so CMakeFiles/HtmlDocument.dir/HtmlDocument.cpp.o CMakeFiles/HtmlDocument.dir/HtmlElement.cpp.o CMakeFiles/HtmlDocument.dir/HtmlNode.cpp.o  -lgumbo 

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anna/Documents/MySearchEngine/Crawler/WebRepository/WebRepository.cpp
+WebRepository.h
+/home/anna/Documents/MySearchEngine/Crawler/WebRepository/WebRepository.h
+
+/home/anna/Documents/MySearchEngine/Crawler/WebRepository/WebRepository.h
+WebSite.h
+/home/anna/Documents/MySearchEngine/Crawler/WebRepository/WebSite.h
+vector
+-
+
+/home/anna/Documents/MySearchEngine/Crawler/WebRepository/WebSite.cpp
+WebSite.h
+/home/anna/Documents/MySearchEngine/Crawler/WebRepository/WebSite.h
+
+/home/anna/Documents/MySearchEngine/Crawler/WebRepository/WebSite.h
+string
+-
+ctime
+-
+

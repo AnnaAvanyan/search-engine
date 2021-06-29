@@ -1,0 +1,3 @@
+/home/anna/Documents/MySearchEngine/Ui/CMakeFiles/rebuild_cache.dir
+/home/anna/Documents/MySearchEngine/Ui/CMakeFiles/edit_cache.dir
+/home/anna/Documents/MySearchEngine/Ui/CMakeFiles/Ui.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall -g  -shared -Wl,-soname,libPageLoader.so -o libPageLoader.so CMakeFiles/PageLoader.dir/LoadResult.cpp.o CMakeFiles/PageLoader.dir/PageLoader.cpp.o  -lcurl 

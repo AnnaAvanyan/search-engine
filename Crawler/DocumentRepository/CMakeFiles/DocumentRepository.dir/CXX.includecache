@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anna/Documents/MySearchEngine/Crawler/DocumentRepository/DocumentEntry.cpp
+DocumentEntry.h
+/home/anna/Documents/MySearchEngine/Crawler/DocumentRepository/DocumentEntry.h
+string
+-
+
+/home/anna/Documents/MySearchEngine/Crawler/DocumentRepository/DocumentEntry.h
+string
+-
+ctime
+-
+
+/home/anna/Documents/MySearchEngine/Crawler/DocumentRepository/DocumentRepository.cpp
+DocumentRepository.h
+/home/anna/Documents/MySearchEngine/Crawler/DocumentRepository/DocumentRepository.h
+
+/home/anna/Documents/MySearchEngine/Crawler/DocumentRepository/DocumentRepository.h
+DocumentEntry.h
+/home/anna/Documents/MySearchEngine/Crawler/DocumentRepository/DocumentEntry.h
+vector
+-
+

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anna/Documents/MySearchEngine/Crawler/HtmlDocument/HtmlDocument.cpp
+HtmlDocument.h
+/home/anna/Documents/MySearchEngine/Crawler/HtmlDocument/HtmlDocument.h
+
+/home/anna/Documents/MySearchEngine/Crawler/HtmlDocument/HtmlDocument.h
+string
+-
+functional
+-
+HtmlElement.h
+/home/anna/Documents/MySearchEngine/Crawler/HtmlDocument/HtmlElement.h
+gumbo.h
+/home/anna/Documents/MySearchEngine/Crawler/HtmlDocument/gumbo.h
+
+/home/anna/Documents/MySearchEngine/Crawler/HtmlDocument/HtmlElement.cpp
+../HtmlDocument/HtmlElement.h
+/home/anna/Documents/MySearchEngine/Crawler/HtmlDocument/HtmlElement.h
+gumbo.h
+/home/anna/Documents/MySearchEngine/Crawler/HtmlDocument/gumbo.h
+
+/home/anna/Documents/MySearchEngine/Crawler/HtmlDocument/HtmlElement.h
+HtmlNode.h
+/home/anna/Documents/MySearchEngine/Crawler/HtmlDocument/HtmlNode.h
+string
+-
+
+/home/anna/Documents/MySearchEngine/Crawler/HtmlDocument/HtmlNode.h
+gumbo.h
+/home/anna/Documents/MySearchEngine/Crawler/HtmlDocument/gumbo.h
+

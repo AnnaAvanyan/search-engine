@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall -g  -shared -Wl,-soname,libDocumentRepository.so -o libDocumentRepository.so CMakeFiles/DocumentRepository.dir/DocumentEntry.cpp.o CMakeFiles/DocumentRepository.dir/DocumentRepository.cpp.o 

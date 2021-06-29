@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anna/Documents/MySearchEngine/Crawler/PageLoader/LoadResult.cpp
+LoadResult.h
+/home/anna/Documents/MySearchEngine/Crawler/PageLoader/LoadResult.h
+iostream
+-
+memory
+-
+
+/home/anna/Documents/MySearchEngine/Crawler/PageLoader/LoadResult.h
+memory
+-
+string
+-
+tr1/memory
+-
+
+/home/anna/Documents/MySearchEngine/Crawler/PageLoader/PageLoader.cpp
+PageLoader.h
+/home/anna/Documents/MySearchEngine/Crawler/PageLoader/PageLoader.h
+iostream
+-
+string
+-
+curlpp/cURLpp.hpp
+-
+curlpp/Easy.hpp
+-
+curlpp/Options.hpp
+-
+
+/home/anna/Documents/MySearchEngine/Crawler/PageLoader/PageLoader.h
+LoadResult.h
+/home/anna/Documents/MySearchEngine/Crawler/PageLoader/LoadResult.h
+
